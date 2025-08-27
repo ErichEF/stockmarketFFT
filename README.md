@@ -202,10 +202,14 @@ economies or not.
 
 **References**
 JSE Stock Index: Yahoo Finance, https://finance.yahoo.com/quote/JSEJF/news?p=JSEJF.
+
 DOW Stock Index: Yahoo Finance, https://finance.yahoo.com/quote/%5EDJI.
+
 DAX Stock Index: Yahoo Finance, https://finance.yahoo.com/quote/%5Egdaxi?ltr=1.
+
 Cox, J. (2020) ‘Goldman says… “unprecedented recovery”’ 14 April. Available at: CNBC,
 https://www.cnbc.com/2020/04/14/goldman-downturn-will-be-four-times-worse-than-the-
 financial-crisis.html
+
 Singh, M. (2019) ‘The 2007-2008 Financial Crisis in Review’ May 9. Available at:
 https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp
