@@ -1,4 +1,5 @@
 **Introduction to topic and analysis**
+
 The stock markets of the world are in a constant state of flux due to causes big and small, which
 makes for an interesting data set to analyse. In particular, during the past 2 decades, there have
 been two big crashes: The crash of 2008, which was due to a housing bubble that burst
@@ -29,6 +30,7 @@ The market is constantly updated throughout the day, but only the day closing da
 for this report.
 
 **Coding and Data**
+
 The stock market data used in this report was obtained from Yahoo Finance. As certain markets
 have days during which data is not collected for various reasons such as public holidays, most
 analysis here will occur between the same markets for different time periods (i.e. 2001-2010 vs.
@@ -72,6 +74,7 @@ market, as using arbitrary days is too vague when analysing market data at diffe
 time.
 
 **Analysis and Discussion**
+
 Dow Jones Industrial Average and DAX, trend and stability between 2001-2010
 Starting with the decade of 2001-2010, there is a general increase between the years of 2001-
 2008 for both the DOW and DAX indexes, but the financial collapse of 2008 severely hampered
@@ -103,6 +106,7 @@ in 2007. While this is not clear from the trend figures (1,3) it’s clearer in 
 the plot starts deviating more and more from the centre as 2007 progressed.
 
 **Dow Jones Industrial Average and DAX, trend and stability between 2011-2020**
+
 The decade of 2011 to 2020, at first glance from any of the figures representing the DOW and
 DAX indices during this period (Figures 2, 4, 7, 8), that this decade was overall more stable and
 had a greater increase in stock market value, perhaps due to the onset of new technologies
@@ -163,6 +167,7 @@ looking at Figure 12 confirms the fact that this was only a temporary boost to t
 falls during 2011.
 
 **Conclusion**
+
 For a Physics lab report, analysing stock market data might seem like an odd choice, but it
 clearly demonstrates the effectiveness of using Fourier Transforms even in non-Physics
 applications. As Physical data tends of be of a similar nature (in that most data can be boiled
